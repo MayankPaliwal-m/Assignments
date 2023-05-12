@@ -21,5 +21,9 @@ public class VehicleMain {
         tataTruck.vehicleDetails();
         bus1.vehicleDetails();
         bus2.vehicleDetails();
+
+        System.out.println(vehicle3);
+        System.out.println(tataTruck);
+        System.out.println(bus1);
     }
 }
