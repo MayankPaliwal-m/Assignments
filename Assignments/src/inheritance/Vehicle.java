@@ -22,5 +22,11 @@ public class Vehicle {
         System.out.printf("Vehicle's name is "+vehicleName+" , Vehicle's registration number is "+vehicleRegistrationNum);
     }
 
-
+    @Override
+    public String toString() {
+        return "Vehicle{" +
+                "vehicleName='" + vehicleName + '\'' +
+                ", vehicleRegistrationNum='" + vehicleRegistrationNum + '\'' +
+                '}';
+    }
 }

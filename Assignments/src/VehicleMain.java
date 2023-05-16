@@ -25,5 +25,7 @@ public class VehicleMain {
         System.out.println(vehicle3);
         System.out.println(tataTruck);
         System.out.println(bus1);
+
+
     }
 }

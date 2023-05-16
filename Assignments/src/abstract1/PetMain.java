@@ -1,4 +1,4 @@
-package Abstract;
+package abstract1;
 
 import java.util.Scanner;
 
