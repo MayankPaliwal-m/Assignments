@@ -12,7 +12,7 @@ package threads.thread;
 
 public class CarRunnable implements Runnable {
 
-    String car;
+    private String car;
 
     public CarRunnable(String car) {
         this.car = car;
